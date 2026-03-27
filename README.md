@@ -42,7 +42,7 @@ P and T waves are more challenging to locate because they have lower amplitudes 
 
 ### Calculated Metrics
 By precisely locating these points, the project computes key parameters, aggregated with mean and standard deviation:
-* **Heart Rate (BPM):** Calculated from the RR interval ($60 / RR\_interval\_in\_seconds$).
+* **Heart Rate (BPM):** Calculated from the RR interval ($60 / RR interval$).
 * **QRS Duration:** Time difference between the S and Q waves.
 * **QT Interval:** Interval from the start of the Q-wave to the end of the T-wave.
 * **QR Interval:** The time difference between the Q-wave and the R-peak (R - Q).
